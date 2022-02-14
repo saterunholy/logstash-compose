@@ -1,0 +1,157 @@
+BTH,data centers|bethesda|Bethesda|NA|NA|Bethesda Datacenter|Bethesda|HMSHost Corporation|0|NA|NA|#N/D|39.027677|-77.139111
+DC,data centers|ashburn|Ashburn|NA|NA|DataCenter|Ashburn|Ashburn Datacenter|0|NA|NA|#N/D|39.015919|-77.42234
+DC,data centers|azure|Azure|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+DC,data centers|bethesda|Bethesda|NA|NA|Bethesda Datacenter|Bethesda|HMSHost Corporation|0|NA|NA|#N/D|39.027677|-77.139111
+DC,united states|virginia|Reagan National Airport  ( DCA )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+ELSCD,canada|montreal airport  ( yul )|Montreal Airport  ( YUL )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFBOS,united states|massachusetts|Boston - Logan Int'l AP - BOS|NA|BOSTON AP|Boston Airport AA|Boston - Logan Int'l AP - BOS|General Edward Lawrence Logan International Airport|0|NA|NA|BOS|42.36429977|-71.00520325
+HFBOS,united states|massachusetts|Boston Warehouse|NA|BOSTON AP|Boston Warehouse (No CB)|Boston Warehouse|General Edward Lawrence Logan International Airport|0|NA|NA|#N/D|42.36429977|-71.00520325
+HFBSR,united states|massachusetts|Boston Warehouse|NA|BOSTON AP|Boston Warehouse (No CB)|Boston Warehouse|General Edward Lawrence Logan International Airport|0|NA|NA|#N/D|42.36429977|-71.00520325
+HFCAL,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|NA|Calgary Airport|Calgary Airport|North Bay Jack Garland Airport|0|NA|NA|YYC|46.363602|-79.422798
+HFCHW,united states|north carolina|Charlotte AP - Remote Office|NA|CHARLOTTE AP|Charlotte AP - Remote Office|Charlotte AP - Remote Office|Charlotte Douglas International Airport|0|NA|NA|JFK|35.2140007|-80.94309998
+HFCLT,united states|north carolina|Charlotte AP - Warehouse (On CradlePoint)|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFCMH,kiosks / servers / middleware devices|pga kiosks / servers|NA|NA|COLUMBUS AP|John Glenn Columbus Intl Airpo|Columbus Airport|John Glenn Columbus International Airport|0|NA|NA|CMH|39.998001|-82.891899
+HFCMH,united states|ohio|Columbus Airport|NA|COLUMBUS AP|John Glenn Columbus Intl Airpo|Columbus Airport|John Glenn Columbus International Airport|0|NA|NA|CMH|39.998001|-82.891899
+HFDEN,united states|colorado|Denver Airport|NA|DENVER AP|Denver International Airport|Denver Airport|Denver International Airport|0|NA|NA|DEN|39.86169815|-104.6729965
+HFDLF,united states|texas|Dallas-Love Airport - DAL|NA|DALLAS LOVE FIELD AP|Dallas Love Field Airport F&B|Dallas-Love Airport - DAL|Dallas Love Field|0|NA|NA|DAL|32.847099|-96.851799
+HFFAI,united states|alaska|Fairbanks AP (No Cloud Bridge)|NA|FAIRBANKS AP|Fairbanks Int'l Airport F&B|Fairbanks AP (No Cloud Bridge)|Fairbanks International Airport|0|NA|NA|FAI|64.81510162|-147.8560028
+HFFLL,united states|florida|Ft. Lauderdale Intl AP - FLL|NA|FORT LAUDERDALE AP|Fort Lauderdale Airport F&B|Ft. Lauderdale Intl AP - FLL|Fort Lauderdale Hollywood International Airport|0|NA|NA|FLL|26.072599|-80.152702
+HFHFX,canada|halifax airport|Halifax Airport|NA|NA|Halifax Airport|Halifax Airport|Hay River / Merlyn Carter Airport|0|NA|NA|YHZ|60.83969879|-115.7829971
+HFHNL,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|HONOLULU AP|Honolulu Airport F&B|Honolulu|Daniel K Inouye International Airport|0|NA|NA|HNL|21.32062|-157.924228
+HFHNL,kiosks / servers / middleware devices|cpk kiosks / servers|NA|NA|HONOLULU AP|Honolulu Airport F&B|Honolulu|Daniel K Inouye International Airport|0|NA|NA|HNL|21.32062|-157.924228
+HFHNL,united states|hawaii|Honolulu  ( HNL )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFIAD,united states|virginia|Dulles Int'l Airport|NA|WASH DULLES AP|Dulles International F&B|Dulles Int'l Airport|Washington Dulles International Airport|0|NA|NA|IAD|38.94449997|-77.45580292
+HFIND,united states|indiana|Indianapolis AP ( IND )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFLAX,united states|california|LAX|LAX-TBIT|LOS ANGELES AP|Los Angeles Airport AA|LAX|Los Angeles International Airport|0|NA|NA|#N/D|33.942501|-118.407997
+HFLAX,united states|california|LAX|LAX-Terminal-2|LOS ANGELES AP|Los Angeles Airport AA|LAX|Los Angeles International Airport|0|NA|NA|#N/D|33.942501|-118.407997
+HFLGA,united states|new york|La Guardia - Shake Shack|NA|NA|0|La Guardia - Shake Shack|0|0|NA|NA|#N/D|40.777199|-73.872597
+HFLIH,united states|hawaii|Lihue Airport  ( LIH )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFMIA,united states|florida|Miami Int'l Airport|NA|MIAMI AP|Miami Airport F&B|Miami Int'l Airport|Miami International Airport|0|NA|NA|MIA|25.79319954|-80.29060364
+HFOGG,united states|hawaii|Kahului (Maui) Airport - OGG|NA|MAUI AP|Maui Airport F&B|Kahului (Maui) Airport - OGG|Kahului Airport|0|NA|NA|OGG|20.8986|-156.429993
+HFORD,"united states|illinois|Chicago O'Hare Int'l AP - ORD|NA|CHICAGO ORD DBE AP,CHICAGO O'HARE AP|Chicago Airport F&B|Chicago O'Hare Int'l AP - ORD|Chicago O'Hare International Airport|0|NA|NA|ORD|41.9786|-87.9048"
+HFPHX,united states|arizona|Phoenix Sky Harbor Int'l Airport - PHX|NA|PHOENIX AP|Phoenix Airport F&B|Phoenix Sky Harbor Int'l Airport - PHX|Phoenix Sky Harbor International Airport|0|NA|NA|PHX|33.43429947|-112.012001
+HFPIT,united states|pennsylvania|Pittsburgh Int'l AP   ( PIT )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFRDU,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|RALEIGH DURHAM AP|Raleigh Durham Airport|Raleigh-Durham International Airport|Raleigh Durham International Airport|0|NA|NA|RDU|35.87760162|-78.78749847
+HFRDU,united states|north carolina|Raleigh-Durham International Airport|NA|RALEIGH DURHAM AP|Raleigh Durham Airport|Raleigh-Durham International Airport|Raleigh Durham International Airport|0|NA|NA|RDU|35.87760162|-78.78749847
+HFRSW,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|FORT MYERS AP|Fort Myers F&B|Ft. Myers Int'l AP - RSW|Southwest Florida International Airport|0|NA|NA|RSW|26.53619957|-81.75520325
+HFRSW,united states|florida|Ft. Myers Int'l AP - RSW|NA|FORT MYERS AP|Fort Myers F&B|Ft. Myers Int'l AP - RSW|Southwest Florida International Airport|0|NA|NA|RSW|26.53619957|-81.75520325
+HFSJC,united states|california|San Jose AP|NA|SAN JOSE AP|San Jose Airport F&B|San Jose AP|Norman Y. Mineta San Jose International Airport|0|NA|NA|SJC|37.362598|-121.929001
+HFSTL,united states|missouri|St. Louis Airport  (STL)|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HFTOR,kiosks / servers / middleware devices|smash burger kiosks / servers|NA|NA|NA|Toronto Airport AA|Toronto Int'l Airport|Mont Joli Airport|0|NA|NA|YYZ|48.60860062|-68.20809937
+HFYEG,canada|edmonton airport|Edmonton Airport|NA|NA|Edmonton Airport|Edmonton Airport|Dawson Creek Airport|0|NA|NA|YEG|55.74229813|-120.1829987
+HFYVR,canada|vancouver int'l airport  ( yvr )|Vancouver Int'l Airport  ( YVR )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HMSCA,canada|calgary airport  ( yyc )|Calgary Airport  ( YYC )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HMSCA,canada|edmonton airport|Edmonton Airport|NA|NA|Edmonton Airport|Edmonton Airport|Dawson Creek Airport|0|NA|NA|YEG|55.74229813|-120.1829987
+HMSCA,canada|halifax airport|Halifax Airport|NA|NA|Halifax Airport|Halifax Airport|Hay River / Merlyn Carter Airport|0|NA|NA|YHZ|60.83969879|-115.7829971
+HMSCA,canada|toronto  |Toronto Int'l Airport ( YYZ )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+HMSCA,canada|vancouver int'l airport  ( yvr )|Vancouver Int'l Airport  ( YVR )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPALH,united states|new jersey|Alexander Hamilton|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPALT,united states|pennsylvania|Allentown TP|NA|4PA ALLENTOWN TP|PA Allentown Travel Plaza|Allentown TP|Allentown Travel Plaza|0|NA|NA|#N/D|40.574366|-75.557904
+TPARD,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NY ARDSLEY TP|NY Ardsley Travel Plaza|Ardsley TP|Ardsley Travel Plaza|0|NA|NA|NA|40.984948|-73.852855
+TPARD,united states|new york|Ardsley TP - Possibly SOLD to Apple Green|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPATC,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4GS ATLANTIC TP|NJ Atlantic City Expressway|Atlantic TP|Atlantic Plaza Service Area|0|NA|NA|NA|39.470889|-74.528839
+TPATC,kiosks / servers / middleware devices|qik-srv middleware servers|NA|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPATC,united states|new jersey|Atlantic TP|NA|4GS ATLANTIC TP|NJ Atlantic City Expressway|Atlantic TP|Atlantic Plaza Service Area|0|NA|NA|#N/D|39.470889|-74.528839
+TPBEC,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4WV BECKLEY TP|WV Beckley Travel Plaza|Beckley TP|Beckley Travel Plaza|0|NA|NA|NA|37.802294|-81.212804
+TPBEC,united states|west virginia|Beckley TP|NA|4WV BECKLEY TP|WV Beckley Travel Plaza|Beckley TP|Beckley Travel Plaza|0|NA|NA|#N/D|37.802294|-81.212804
+TPBLM,united states|pennsylvania|Blue Mountain Turnpike|NA|4PA BLUE MOUNTAIN TP|PA Blue Mountain Travel Plaza|Blue Mountain Turnpike|Blue Mountain Travel Plaza|0|NA|NA|#N/D|40.16579|-77.597041
+TPBLS,united states|west virginia|Bluestone TP|NA|4WV BLUESTONE TP|WV Bluestone Travel Plaza|Bluestone TP|Bluestone Travel Plaza|0|NA|NA|#N/D|37.474711|-81.06791
+TPBNV,united states|pennsylvania|Bowmansville Turnpike|NA|4PA BOWMANSVILLE TP|Bowmansville Turnpike|Bowmansville Turnpike|Bowmansville Travel Plaza|0|NA|NA|#N/D|40.202283|-76.015731
+TPBSV,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA BOWMANSVILLE TP|Bowmansville Turnpike|Bowmansville Turnpike|Bowmansville Travel Plaza|0|NA|NA|NA|40.202283|-76.015731
+TPBSV,united states|pennsylvania|Bowmansville Turnpike|NA|4PA BOWMANSVILLE TP|Bowmansville Turnpike|Bowmansville Turnpike|Bowmansville Travel Plaza|0|NA|NA|#N/D|40.202283|-76.015731
+TPCHE,united states|new jersey|Cheesequake TP|NA|4GS CHEESEQUAKE TP|NJ Cheesequake|Cheesequake TP|Cheesequake Travel Plaza|0|NA|NA|#N/D|40.466364|-74.289297
+TPCLB,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NJ CLARA BARTON TP|NJ Clara Barton|Clara Barton TP|Clara Barton Travel Plaza|0|NA|NA|NA|39.698026|-75.396577
+TPCLB,united states|new jersey|Clara Barton TP|NA|4NJ CLARA BARTON TP|NJ Clara Barton|Clara Barton TP|Clara Barton Travel Plaza|0|NA|NA|#N/D|39.698026|-75.396577
+TPCLS,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NY CLIFTON SPRINGS TP|NY Clifton Springs Travel Pl|Clifton Springs TP|Clifton Springs Travel Plaza|0|NA|NA|NA|42.972737|-77.173462
+TPCLS,united states|new york|Clifton Springs TP|NA|4NY CLIFTON SPRINGS TP|NY Clifton Springs Travel Pl|Clifton Springs TP|Clifton Springs Travel Plaza|0|NA|NA|#N/D|42.972737|-77.173462
+TPCPR,united states|ohio|Commodore Perry TP|NA|4OH COMMODORE PERRY TP|Commodore Perry TP|Commodore Perry TP|Commodore Perry Service Plaza|0|NA|NA|#N/D|41.367876|-82.958964
+TPCUM,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4ME CUMBERLAND TP|ME Cumberland|Cumberland TP|Cumberland Service Plaza|0|NA|NA|NA|43.817841|-70.319857
+TPCUM,united states|maine|Cumberland TP|NA|4ME CUMBERLAND TP|ME Cumberland|Cumberland TP|Cumberland Service Plaza|0|NA|NA|#N/D|43.817841|-70.319857
+TPCVY,united states|pennsylvania|Plainfield-Cumberland Valley|NA|4PA CUMBERLAND VALLEY TP|Plainfield-Cumberland Valley|Plainfield-Cumberland Valley|Cumberland Valley Service Plaza|0|NA|NA|#N/D|40.20528|-77.287775
+TPDEL,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4DE DELAWARE HOUSE TP|DE Delaware Turnpike|Delaware House|Delaware House Travel Plaza|0|NA|NA|NA|39.662343|-75.691092
+TPDEL,united states|delaware|Delaware House|NA|4DE DELAWARE HOUSE TP|DE Delaware Turnpike|Delaware House|Delaware House Travel Plaza|0|NA|NA|#N/D|39.662343|-75.691092
+TPERI,united states|ohio|Erie Island TP|NA|4OH ERIE ISLANDS TP|OH Erie Islands Travel Plaza|Erie Island TP|Erie Islands Travel Plaza|0|NA|NA|#N/D|41.369177|-82.956264
+TPERP,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4IN ERNIE PYLE TP|IN Ernie Pyle|Ernie Pyle TP|Ernie Pyle Travel Plaza|0|NA|NA|NA|41.746952|-85.328544
+TPERP,united states|indiana|Ernie Pyle TP|NA|4IN ERNIE PYLE TP|IN Ernie Pyle|Ernie Pyle TP|Ernie Pyle Travel Plaza|0|NA|NA|#N/D|41.746952|-85.328544
+TPFRA,united states|massachusetts|Framingham TP|NA|4MA FRAMINGHAM TP|MA Framingham Travel Plaza|Framingham TP|Framingham Service Plaza Westbound|0|NA|NA|#N/D|42.312267|-71.42888
+TPFRD,united states|new jersey|Forked River TP|NA|4GS FORKED RIVER TP|NJ Forked River|Forked River TP|Forked River Service Area|0|NA|NA|#N/D|39.874148|-74.214621
+TPGAL,united states|west virginia|Gallagher Snack Shop ( No SDWAN )|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPGAR,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4ME W GARDINER TP|ME West Gardiner Travel Plaza|West Gardiner TP|West Gardiner Travel Plaza|0|NA|NA|NA|44.207255|-69.827763
+TPGAR,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4ME W GARDINER TP|ME West Gardiner Travel Plaza|West Gardiner TP|West Gardiner Travel Plaza|0|NA|NA|NA|44.207255|-69.827763
+TPGAR,united states|maine|West Gardiner TP|NA|4ME W GARDINER TP|ME West Gardiner Travel Plaza|West Gardiner TP|West Gardiner Travel Plaza|0|NA|NA|#N/D|44.207255|-69.827763
+TPGRA,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4ME GRAY TP|ME Gray|Gray TP|Gray Service Plaza|0|NA|NA|NA|43.824566|-70.320064
+TPGRA,united states|maine|Gray TP|NA|4ME GRAY TP|ME Gray|Gray TP|Gray Service Plaza|0|NA|NA|#N/D|43.824566|-70.320064
+TPGRC,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4NJ GROVER CLEVELAND TP|NJ Grover Cleveland|Grover Cleveland TP|Grover Cleveland Service Area|0|NA|NA|NA|40.556989|-74.263206
+TPGRC,united states|new jersey|Grover Cleveland TP|NA|4NJ GROVER CLEVELAND TP|NJ Grover Cleveland|Grover Cleveland TP|Grover Cleveland Service Area|0|NA|NA|#N/D|40.556989|-74.263206
+TPGRL,united states|ohio|Great Lakes TP|NA|4OH GREAT LAKES TP|OH Great Lakes II Travel Plaza|Great Lakes TP|Great Lakes Travel Plaza|0|NA|NA|#N/D|41.292606|-81.671392
+TPGSP,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4IN GENE S PORTER TP|IN Gene Stratton Porter|Gene Stratton-Porter TP|Gene Stratton Porter Travel Plaza Eastbound|0|NA|NA|NA|41.745058|-85.329206
+TPGSP,united states|indiana|Gene Stratton-Porter TP|NA|4IN GENE S PORTER TP|IN Gene Stratton Porter|Gene Stratton-Porter TP|Gene Stratton Porter Travel Plaza Eastbound|0|NA|NA|#N/D|41.745058|-85.329206
+TPHAM,united states|new jersey|Frank Farley TP|NA|4AC FRANK FARLEY TP|Frank Farley TP|Frank Farley TP|Frank Farley Travel Plaza |0|NA|NA|#N/D|39.550766|-74.735899
+TPHCR,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA HICKORY RUN TP|PA Hickory Run Travel Plaza|Hickory Run (Jim Thorpe)|Hickory Run Travel Plaza|0|NA|NA|NA|40.970436|-75.631412
+TPHCR,united states|pennsylvania|Hickory Run (Jim Thorpe)|NA|4PA HICKORY RUN TP|PA Hickory Run Travel Plaza|Hickory Run (Jim Thorpe)|Hickory Run Travel Plaza|0|NA|NA|#N/D|40.970436|-75.631412
+TPHSP,united states|pennsylvania|Highspire TP|NA|4PA HIGHSPIRE TP|PA Highspire Travel Plaza|Highspire TP|Highspire Travel Plaza|0|NA|NA|#N/D|40.209807|-76.743318
+TPINC,united states|new york|Indian Castle TP - SOLD to Apple Green|NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPIND,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4OH INDIAN MEADOW TP|NY Indian Castle Travel Plaza|Indian Meadows|Indian Meadow Plaza|0|NA|NA|NA|41.605503|-84.407693
+TPIND,united states|ohio|Indian Meadows|NA|4OH INDIAN MEADOW TP|NY Indian Castle Travel Plaza|Indian Meadows|Indian Meadow Plaza|0|NA|NA|#N/D|41.605503|-84.407693
+TPIRO,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NY IROQUOIS TP|NY Iroquois Travel Plaza|Iroquois TP|Iroquois Travel Plaza|0|NA|NA|NA|43.016988|-74.802946
+TPIRO,united states|new york|Iroquois TP - SOLD to Apple Green |NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPJFC,united states|new jersey|James Cooper TP|NA|4NJ JAMES COOPER TP|NJ James Cooper|James Cooper TP|James Cooper Travel Plaza|0|NA|NA|#N/D|39.980772|-74.888623
+TPJFN,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NJ JOHN FENWICK TP|NJ John Fenwick|John Fenwick TP|John Fenwick Travel Plaza|0|NA|NA|NA|39.695679|-75.396447
+TPJFN,united states|new jersey|John Fenwick TP|NA|4NJ JOHN FENWICK TP|NJ John Fenwick|John Fenwick TP|John Fenwick Travel Plaza|0|NA|NA|#N/D|39.695679|-75.396447
+TPJOY,united states|new jersey|Joyce Kilmer TP|NA|4NJ JOYCE KILMER TP|NJ Joyce Kilmer|Joyce Kilmer TP|Joyce Kilmer Travel Plaza|0|NA|NA|#N/D|40.416669|-74.443889
+TPJUP,united states|new york|Junius Ponds TP|NA|4NY JUNIUS PONDS TP|NY Junius Ponds Travel Plaza|Junius Ponds TP|Junius Ponds Travel Plaza|0|NA|NA|#N/D|42.958978|-76.917998
+TPKBN,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4ME N KENNEBUNK TP|ME Kennebunk North|Kennebunk North TP|Kennebunk Service Plaza (Northbound)|0|NA|NA|NA|43.410429|-70.558237
+TPKBN,united states|maine|Kennebunk North TP|NA|4ME N KENNEBUNK TP|ME Kennebunk North|Kennebunk North TP|Kennebunk Service Plaza (Northbound)|0|NA|NA|#N/D|43.410429|-70.558237
+TPKBS,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4ME S KENNEBUNK TP|ME Kennebunk South|Kennebunk South TP|Kennebunk Service Plaza (Southbound)|0|NA|NA|NA|43.410148|-70.560708
+TPKBS,united states|maine|Kennebunk South TP|NA|4ME S KENNEBUNK TP|ME Kennebunk South|Kennebunk South TP|Kennebunk Service Plaza (Southbound)|0|NA|NA|#N/D|43.410148|-70.560708
+TPKNW,united states|new jersey|Knowlton|NA|4NJ KNOWLTON TP|NJ Knowlton Travel Plaza|Knowlton|Knowlton Travel Plaza|0|NA|NA|#N/D|40.934531|-75.101566
+TPKOP,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA KING OF PRUSSIA TP|PA King of Prussia Trvl Plaza|King of Prussia|King of Prussia Travel Plaza|0|NA|NA|NA|40.090077|-75.370531
+TPKOP,united states|pennsylvania|King of Prussia|NA|4PA KING OF PRUSSIA TP|PA King of Prussia Trvl Plaza|King of Prussia|King of Prussia Travel Plaza|0|NA|NA|#N/D|40.090077|-75.370531
+TPKRO,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4IN KNUTE ROCKNE TP|IN Knute Rockne Plaza|Knute Rockne TP|Knute Rockne Travel Plaza|0|NA|NA|NA|41.705702|-86.621165
+TPKRO,united states|indiana|Knute Rockne TP|NA|4IN KNUTE ROCKNE TP|IN Knute Rockne Plaza|Knute Rockne TP|Knute Rockne Travel Plaza|0|NA|NA|#N/D|41.705702|-86.621165
+TPLUE,united states|massachusetts|Ludlow East TP|NA|4MA LUDLOW EAST TP|MA Ludlow East Travel Plaza|Ludlow East TP|Ludlow Service Plaza Eastbound|0|NA|NA|#N/D|42.16916|-72.453999
+TPLUW,united states|massachusetts|Ludlow West TP|NA|4MA LUDLOW WEST TP|MA Ludlow West Travel Plaza|Ludlow West TP|Ludlow Service Plaza Westbound|0|NA|NA|#N/D|42.171079|-72.455641
+TPLWN,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA LAWN TP|Hershey (Lawn) TP|Hershey (Lawn) TP|Lawn Service Plaza|0|NA|NA|NA|40.208204|-76.574347
+TPLWN,united states|pennsylvania|Hershey (Lawn) TP|NA|4PA LAWN TP|Hershey (Lawn) TP|Hershey (Lawn) TP|Lawn Service Plaza|0|NA|NA|#N/D|40.208204|-76.574347
+TPMON,united states|new jersey|Monmouth TP|NA|4GS MONMOUTH TP|NJ Monmouth|Monmouth TP|Monmouth Service Area|0|NA|NA|#N/D|40.198429|-74.09913
+TPMOP,united states|new jersey|Molly Pitcher TP|NA|4NJ MOLLY PITCHER TP|NJ Molly Pitcher|Molly Pitcher TP|Molly Pitcher Travel Plaza|0|NA|NA|#N/D|40.321168|-74.488048
+TPMOT,united states|new jersey|Montvale TP|NA|4GS MONTVALE TP|Montvale TP|Montvale TP|Montvale Travel Plaza|0|NA|NA|#N/D|41.048016|-74.066528
+TPMRP,united states|ohio|Middle Ridge TP|NA|4OH MIDDLE RIDGE TP|OH Middle Ridge Travel Plaza|Middle Ridge TP|Middle Ridge Travel Plaza|0|NA|NA|#N/D|41.379911|-82.222919
+TPMTN,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4WV MORTON TP|WV Morton Travel Plaza|Mortons TP|Morton Travel Plaza|0|NA|NA|NA|38.102069|-81.382869
+TPMTN,united states|west virginia|Mortons TP|NA|4WV MORTON TP|WV Morton Travel Plaza|Mortons TP|Morton Travel Plaza|0|NA|NA|#N/D|38.102069|-81.382869
+TPNOY,united states|pennsylvania|Midway North TP|NA|4PA NORTH MIDWAY TP|Midway North TP|Midway North TP|North Midway Service Plaza|0|NA|NA|#N/D|40.030835|-78.492499
+TPNSO,united states|pennsylvania|Somerset North TP|NA|4PA NORTH SOMERSET TP|PA North Somerset Travel Plaza|Somerset North TP|North Somerset Travel Plaza|0|NA|NA|#N/D|40.000294|-79.044477
+TPNST,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA NEW STANTON TP|PA New Stanton Travel Plaza|New Stanton|New Stanton Travel Plaza|0|NA|NA|NA|40.206187|-79.565982
+TPNST,united states|pennsylvania|New Stanton|NA|4PA NEW STANTON TP|PA New Stanton Travel Plaza|New Stanton|New Stanton Travel Plaza|0|NA|NA|#N/D|40.206187|-79.565982
+TPOKM,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA OAKMONT TP|PA Oakmont Travel Plaza|Oakmont TP|Oakmont Travel Plaza|0|NA|NA|NA|40.521028|-79.814011
+TPOKM,united states|pennsylvania|Oakmont TP|NA|4PA OAKMONT TP|PA Oakmont Travel Plaza|Oakmont TP|Oakmont Travel Plaza|0|NA|NA|#N/D|40.521028|-79.814011
+TPONE,united states|new york|Iroquois TP - SOLD to Apple Green |NA|NA|NA|NA|NA|0|NA|NA|NA|39.027677|-77.139111
+TPONE,united states|new york|Oneida TP|NA|4NY ONEIDA TP|NY Oneida Travel Plaza|Oneida TP|Oneida Travel Plaza|0|NA|NA|#N/D|43.125156|-75.414462
+TPPAT,united states|new york|Pattersonville TP|NA|4NY PATTERSONVILLE TP|NY Pattersonville Travel Plaza|Pattersonville TP|Pattersonville Travel Plaza|0|NA|NA|#N/D|42.896846|-74.096847
+TPPJC,united states|pennsylvania|Peter J. Camiel TP|NA|4PA PETER CAMIEL TP|PA Peter J Camiel Travel Plaza|Peter J. Camiel TP|Peter J. Camiel Service Plaza|0|NA|NA|#N/D|40.121954|-75.776358
+TPPLA,united states|new york|Plattekill TP|NA|4NY PLATTEKILL TP|NY Plattekill Travel Plaza|Plattekill TP|Plattekill Travel Plaza|0|NA|NA|#N/D|41.577865|-74.085346
+TPRST,united states|new jersey|Richard Stockton TP|NA|4NJ RICHARD STOCKTON TP|NJ Richard Stockton Travel Pl|Richard Stockton TP|Richard Stockton Travel Plaza|0|NA|NA|#N/D|40.177883|-74.631103
+TPSIH,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA SIDELING HILL TP|PA Sidling Hill Travel Plaza|Sideling Hill TP|Sideling Hill Service Plaza|0|NA|NA|NA|40.058792|-78.08205
+TPSIH,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4PA SIDELING HILL TP|PA Sidling Hill Travel Plaza|Sideling Hill TP|Sideling Hill Service Plaza|0|NA|NA|NA|40.058792|-78.08205
+TPSIH,united states|pennsylvania|Sideling Hill TP|NA|4PA SIDELING HILL TP|PA Sidling Hill Travel Plaza|Sideling Hill TP|Sideling Hill Service Plaza|0|NA|NA|#N/D|40.058792|-78.08205
+TPSLO,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NY SLOATSBURG TP|NY Sloatsburg Travel Plaza|Sloatsburg TP|Sloatsburg Travel Plaza|0|NA|NA|NA|41.150896|-74.188102
+TPSLO,united states|new york|Sloatsburg TP|NA|4NY SLOATSBURG TP|NY Sloatsburg Travel Plaza|Sloatsburg TP|Sloatsburg Travel Plaza|0|NA|NA|#N/D|41.150896|-74.188102
+TPSMD,united states|pennsylvania|Midway South TP|NA|4PA SOUTH MIDWAY TP|Midway South TP|Midway South TP|South Midway Travel Plaza|0|NA|NA|#N/D|40.030127|-78.493367
+TPSSO,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4PA SOUTH SOMERSET TP|PA South Somerset Travel Plaza|Somerset South TP|South Somerset Travel Plaza|0|NA|NA|NA|39.999206|-79.046413
+TPSSO,kiosks / servers / middleware devices|popeye's kiosks / servers|NA|NA|4PA SOUTH SOMERSET TP|PA South Somerset Travel Plaza|Somerset South TP|South Somerset Travel Plaza|0|NA|NA|NA|39.999206|-79.046413
+TPSSO,united states|pennsylvania|Somerset South TP|NA|4PA SOUTH SOMERSET TP|PA South Somerset Travel Plaza|Somerset South TP|South Somerset Travel Plaza|0|NA|NA|#N/D|39.999206|-79.046413
+TPTHO,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4NJ THOMAS EDISON TP|NJ Thomas Edison Travel Plaza|Thomas Edison TP|Thomas Edison Service Area|0|NA|NA|NA|40.559957|-74.264602
+TPTHO,united states|new jersey|Thomas Edison TP|NA|4NJ THOMAS EDISON TP|NJ Thomas Edison Travel Plaza|Thomas Edison TP|Thomas Edison Service Area|0|NA|NA|#N/D|40.559957|-74.264602
+TPTIF,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4OH TIFFIN RIVER TP|OH Tiffin River Travel Plaza|Tiffin River|Tiffin River Travel Plaza|0|NA|NA|NA|41.603299|-84.407763
+TPTIF,united states|ohio|Tiffin River|NA|4OH TIFFIN RIVER TP|OH Tiffin River Travel Plaza|Tiffin River|Tiffin River Travel Plaza|0|NA|NA|#N/D|41.603299|-84.407763
+TPTOW,united states|ohio|Towpath Turnpike|NA|4OH TOWPATH TP|OH Towpath II Travel Plaza|Towpath Turnpike|Towpath Travel Plaza|0|NA|NA|#N/D|41.291762|-81.675371
+TPULS,united states|new york|Ulster TP|NA|4NY ULSTER TP|NY Ulster Travel Plaza|Ulster TP|Ulster Travel Plaza|0|NA|NA|#N/D|42.014072|-73.999883
+TPVAL,united states|pennsylvania|Valley Forge TP|NA|4PA VALLEY FORGE TP|PA Valley Forge Travel Plaza|Valley Forge TP|Valley Forge Service Plaza|0|NA|NA|#N/D|40.083144|-75.439979
+TPVER,united states|ohio|Vermillion TP|NA|4OH VERMILION VALLEY TP|OH Vermilion Valley Travel Pl|Vermillion TP|Vermilion Travel Plaza|0|NA|NA|#N/D|41.377465|-82.224674
+TPVIN,united states|new jersey|Vince Lombardi|NA|4NJ VINCE LOMBARDI TP|NJ Vince Lombardi Travel Plaza|Vince Lombardi|Vince Lombardi Travel Plaza|0|NA|NA|#N/D|40.82278|-74.029723
+TPWAL,united states|new jersey|Walt Whitman TP|NA|4NJ WALT WHITMAN TP|NJ Walt Whitman Travel Plaza|Walt Whitman TP|Walt Whitman Service Area|0|NA|NA|#N/D|39.885924|-75.002695
+TPWOO,united states|new jersey|NJ Regional (Part of Woodrow Wilson TP)|NA|NEWARK AP|Newark Airport F&B Term B|NJ Regional (Part of Woodrow Wilson TP)|Newark Liberty International Airport|0|NA|NA|EWR|40.69250107|-74.16870117
+TPWOO,united states|new jersey|Woodrow Wilson TP|NA|4NJ WOODROW WILSON TP|NJ Woodrow Wilson Travel Plaza|Woodrow Wilson TP|Woodrow Wilson Travel Plaza|0|NA|NA|#N/D|40.176267|-74.628647
+TPWSH,kiosks / servers / middleware devices|bk-kiosks / bk-qik servers|NA|NA|4IN WILBUR SHAW TP|IN Wilbur Shaw Plaza|Wilbur Shaw|Wilbur Shaw Plaza|0|NA|NA|NA|41.706998|-86.623465
+TPWSH,united states|indiana|Wilbur Shaw|NA|4IN WILBUR SHAW TP|IN Wilbur Shaw Plaza|Wilbur Shaw|Wilbur Shaw Plaza|0|NA|NA|#N/D|41.706998|-86.623465
+
