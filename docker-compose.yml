@@ -1,0 +1,12 @@
+version: '3.2'
+
+services:
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.16.1
+    ports:
+      - "9600:9600"
+    volumes:
+      - ./logstash/logstash.yml:/etc/logstash
+      - ./pipelines/:/etc/logstash/conf.d/pipelines
+    environment:
+      LS_JAVA_OPTS: "-Xmx512m -Xms512m"
